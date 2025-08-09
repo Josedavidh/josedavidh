@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Hernandez</h1>
 <h3 align="center">A passionate frontend developer from Miami, FL</h3>
 
-- 🔭 I’m currently working on [MilPaginas E-commerce Library](https://github.com/Josedavidh/Ecommerce-proyecto-final49)
+- 🔭 I’m currently working on [The Nook Book Library](https://github.com/Josedavidh/TheNookBook-FinalProject)
 
 - 🌱 I’m currently learning **Python, AI for software development**
 
