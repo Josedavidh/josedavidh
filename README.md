@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, React.js, JavaScript, Python, SQL, SQLAlchemy**
 
-- 📫 How to reach me **josedavid.he@outlook.com**
+- 📫 How to reach me **josedavid.he1@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/imce1ugn791h](https://flowcv.com/resume/imce1ugn791h)
 
